@@ -167,10 +167,11 @@ export function Layout() {
           </nav>
           <div className="footer-col">
             <h2>How it works</h2>
-            <span>1. Step 1 screening: RTU COR and grades</span>
+            <span>1. Apply online: RTU COR and grades</span>
             <span>2. Qualifying exam at RTU</span>
             <span>3. Step 2 requirements</span>
-            <span>4. Ranking and decision by the office</span>
+            <span>4. Interview at Mandaluyong City Hall</span>
+            <span>5. Result in the portal</span>
           </div>
           <div className="footer-col">
             <h2>Your data</h2>
